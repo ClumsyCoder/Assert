@@ -1,0 +1,16 @@
+{
+    "name": "ClumsyCode/Assert",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Assert\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
